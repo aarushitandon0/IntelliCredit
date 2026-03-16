@@ -1,0 +1,1 @@
+export { FraudTab as default } from './AllTabs'

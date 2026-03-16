@@ -1,0 +1,1 @@
+export { OfficerPortal as default } from './AllTabs'

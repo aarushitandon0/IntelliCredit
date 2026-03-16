@@ -1,0 +1,1 @@
+export { FiveCsTab as default } from './AllTabs'

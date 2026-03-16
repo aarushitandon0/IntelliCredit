@@ -1,0 +1,1 @@
+export { ResearchTab as default } from './AllTabs'
