@@ -2,7 +2,7 @@
 
 **AI-Powered Corporate Credit Appraisal Engine**
 
-India's corporate lending ecosystem is trapped in a data paradox. Credit managers have access to more information than ever -- GST filings, bank statements, annual reports, MCA records, court databases -- yet a single mid-sized loan appraisal takes 3 to 6 weeks. Intelli-Credit eliminates that gap by ingesting every data source simultaneously and producing a fully cited, auditable credit decision in under 5 minutes.
+India's corporate lending ecosystem is trapped in a data paradox. Credit managers have access to more information than ever GST filings, bank statements, annual reports, MCA records, court databases, yet a single mid-sized loan appraisal takes 3 to 6 weeks. Intelli-Credit eliminates that gap by ingesting every data source simultaneously and producing a fully cited, auditable credit decision in under 5 minutes.
 
 ---
 
